@@ -1,0 +1,84 @@
+body {
+     background-image: url("IMAGES/realdeal.jpg");
+     background-repeat:no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+}
+/* body, html {
+     min-height: 50%;
+}
+ body {
+     background-image: url("IMAGES/realdeal.jpg") ;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+*/
+ body {
+     font-family: "Trebuchet MS", Arial, sans-serif;
+     color: white;
+     font-size:18px;
+}
+ ul {
+     list-style-type: none;
+     margin: -10px;
+     padding: 0px;
+     overflow: hidden;
+     background-color: #333;
+}
+ li {
+     float: left;
+}
+ li a {
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+}
+ li a:hover:not(.active) {
+     background-color: #92f7ed;
+}
+ .active {
+     background-color: #4CAF50;
+}
+ .centre {
+     text-align:left;
+     color: white;
+}
+ .ship {
+     margin-left: 400px;
+     height: 220px;
+     width: 465px;
+}
+ .palms {
+     margin-left: 800px;
+     margin-top: 55px;
+     height: auto;
+}
+/* below is my id selector*/
+ #search {
+     color: black;
+     margin-left:1200px;
+     margin-top:-33px;
+}
+ .foot {
+     color:black;
+     text-align:center;
+}
+ .video {
+     margin-top:-410px;
+}
+ .sunset {
+     margin-left: 1000px;
+     height: 220px;
+     width: 465px;
+     vertical-align: middle;
+}
+.blue {
+	 margin-left: 1000px;
+     height: 220px;
+     width: 465px;
+}
+ 
